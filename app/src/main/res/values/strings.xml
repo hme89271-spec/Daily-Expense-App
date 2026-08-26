@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Expense App</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="expense_amount">Amount</string>
+    <string name="expense_category">Category</string>
+    <string name="expense_date">Date</string>
+    <string name="expense_note">Note</string>
+    <string name="expense_list">Expense List</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="daily_total">Daily Total: </string>
+    <string name="monthly_total">Monthly Total: </string>
+    <string name="no_expenses">No expenses yet</string>
+    <string name="category_food">Food</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_healthcare">Healthcare</string>
+    <string name="category_education">Education</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_other">Other</string>
+</resources>
