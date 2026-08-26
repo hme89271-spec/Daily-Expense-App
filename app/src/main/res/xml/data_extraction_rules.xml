@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <domain-config>
+        <domain includeSubdomains="true">example.com</domain>
+        <path-filter excludeList="true">
+            <path>PATH_TO_EXCLUDE</path>
+        </path-filter>
+    </domain-config>
+</data-extraction-rules>
